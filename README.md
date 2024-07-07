@@ -1,1 +1,1 @@
-# Cospin_solved.ac
+# Cospin_study
