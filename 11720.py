@@ -6,4 +6,3 @@ for i in num:
     sum+=int(i)
 
 print(sum)
-print("1")
