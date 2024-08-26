@@ -6,7 +6,6 @@ T=int(input())
 
 def dfs(field,x,y,visited):
     visited[y][x]=True
-
     for dx,dy in [(0,1),(1,0),(0,-1),(-1,0)]:
         nx,ny=x+dx,y+dy
 
